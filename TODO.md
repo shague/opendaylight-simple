@@ -13,7 +13,8 @@
 
 - [ ] RestConfWiring with Web API
 
-- [ ] OpenFlowPlugin wiring
+- [X] OpenFlowPlugin wiring ConfigurationServiceFactoryImpl (OPNFLWPLUG-1037)
+- [ ] OpenFlowPluginWiring PacketProcessingService <odl:action-provider>
 
 - [X] packaging
 - [ ] why does maven-assembly-plugin dependencySet attempt to download from so many other Maven repos than only nexus.opendaylight.org
